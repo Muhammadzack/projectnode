@@ -1,0 +1,2 @@
+# projectnode
+testnet chain
